@@ -2,7 +2,7 @@
 
 Quarto custom thesis format extension based on [**apaquarto** (by W. Joel Schneider)](https://github.com/wjschne/apaquarto).
 
-Updated based on the thesis formatting guidelines of the Psychology department (Faculty of Arts, Charles University) for use with [**Quarto Book**](https://quarto.org/docs/books/) format.
+Updated based on the thesis formatting guidelines of Faculty of Arts (Department of Psychology) of Charles University for use with [**Quarto Book**](https://quarto.org/docs/books/) format.
 
 Warning: This was mostly vibecoded so there may be bugs.
 
@@ -32,6 +32,8 @@ format:
   apathesis-pdf: default
 ```
 
+Right now, only PDF and HTML formats are supported.
+
 The extension needs additional information in `_quarto.yml` to format the title page correctly:
 
 ```
@@ -56,7 +58,7 @@ Then you render by running
 quarto render
 ```
 
-in terminal.
+in terminal. This will create `thesis.pdf` (PDF) and `index.html` (HTML) files in the specified folder (`_book/` by default).
 
 ### Change languages
 
