@@ -2,7 +2,7 @@
 
 Quarto custom thesis format extension based on [**apaquarto** (by W. Joel Schneider)](https://github.com/wjschne/apaquarto).
 
-Updated based on the thesis formatting guidelines of the Psychology department (Faculty of Arts, Charles University) for use with [**Quarto Book**](https://quarto.org/docs/books/) format.
+Updated based on the thesis formatting guidelines of Faculty of Arts (Department of Psychology) of Charles University for use with [**Quarto Book**](https://quarto.org/docs/books/) format.
 
 Warning: This was mostly vibecoded so there may be bugs.
 
