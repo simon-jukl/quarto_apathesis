@@ -11,7 +11,7 @@ Warning: This was mostly vibecoded so there may be bugs.
 To automatically add extension to your thesis folder, run in terminal:
 
 ```
-quarto add simon-jukl/quarto_apathesis
+quarto add simonjukl/quarto_apathesis
 ```
 
 which downloads the extension from GitHub.
